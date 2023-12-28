@@ -1,0 +1,15 @@
+.page {
+  width: 99%;
+  height: 225px;
+  background: #6fc1fd;
+}
+.header {
+  width: 100%;
+  margin-top: 40px;
+  background: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 0;
+  height: 33px;
+}
