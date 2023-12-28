@@ -5,11 +5,17 @@
 }
 .header {
   width: 100%;
-  margin-top: 40px;
+  margin-top: 60px;
   background: white;
   display: flex;
   justify-content: space-between;
   align-items: center;
   margin-left: 0;
-  height: 33px;
+  height: 53px;
+}
+.header__svg {
+  margin-left: 40px;
+}
+.header__other {
+  margin-right: 20px;
 }
